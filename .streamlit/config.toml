@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1E90FF"  # Corporate blue or brand color
+backgroundColor = "#FFFFFF"  # Clean white background
+secondaryBackgroundColor = "#F0F0F5"  # Light gray for section contrasts
+textColor = "#000000"  # Professional black text
+font = "sans serif"

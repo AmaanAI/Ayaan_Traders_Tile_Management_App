@@ -1,0 +1,7 @@
+Tile Type,Rate per sq ft,Complexity Level,Location,Material Cost per sq ft
+Ceramic Tile,5.0,Medium,Urban,3.5
+Porcelain Tile,6.5,High,Suburban,4.0
+Marble Tile,12.0,Very High,Urban,8.0
+Granite Tile,10.0,High,Rural,6.5
+Glass Tile,15.0,Very High,Urban,10.0
+Vinyl Tile,3.5,Low,Suburban,2.0
